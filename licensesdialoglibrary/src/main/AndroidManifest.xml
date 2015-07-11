@@ -20,8 +20,5 @@
     android:versionName="1.0.0-SNAPSHOT"
     package="de.psdev.licensesdialog">
 
-    <uses-sdk
-        android:minSdkVersion="14"
-        android:targetSdkVersion="19" />
     <application />
 </manifest>
